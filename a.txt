@@ -3,3 +3,4 @@ Tree・Blobオブジェクトの確認用。
 ここは`a.txt`です。
 
 1. conflict-testブランチで1つ進める。
+2-1. conflict-testブランチで1つ進めてコミット・プッシュ
