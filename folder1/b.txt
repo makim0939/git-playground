@@ -1,0 +1,3 @@
+Tree・Blobオブジェクトの確認用。
+
+ここは`folder1/b.txt`です。
