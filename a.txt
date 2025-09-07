@@ -4,3 +4,4 @@ Tree・Blobオブジェクトの確認用。
 
 1. conflict-testブランチで1つ進める。
 2-1. conflict-testブランチで1つ進めてコミット・プッシュ
+3-1. conflict-testブランチでコミットを1つ進めてプッシュ
