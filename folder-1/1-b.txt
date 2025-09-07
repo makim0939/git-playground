@@ -1,2 +1,0 @@
-tree・blobオブジェクトのテスト
-ここは`folder1/1-b.txt`
